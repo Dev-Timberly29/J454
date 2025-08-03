@@ -3,3 +3,17 @@
     margin: 0px;
     box-sizing: border-box;
 }
+#first{
+    background-color: purple;
+    height: 100vh;
+}
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
